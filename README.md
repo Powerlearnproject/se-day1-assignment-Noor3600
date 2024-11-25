@@ -1,6 +1,6 @@
-SE Day 1 Assignment
+## SE Day 1 Assignment
 
-Part 1: Introduction to Software Engineering
+## Part 1: Introduction to Software Engineering
 
 1. Explain what software engineering is and discuss its importance in the technology industry.
 
